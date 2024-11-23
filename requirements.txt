@@ -1,0 +1,15 @@
+customtkinter==5.2.2
+darkdetect==0.8.0
+dominant_color_detection==0.1.8
+hPyT==1.2.1
+joblib==1.4.0
+numpy==1.26.4
+packaging==24.0
+Pillow==9.5.0
+pywinstyles==1.8
+scikit-learn==1.4.2
+scipy==1.13.0
+screeninfo==0.8.1
+threadpoolctl==3.4.0
+tk==0.1.0
+win32mica==3.0
